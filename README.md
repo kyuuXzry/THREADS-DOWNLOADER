@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,55:262626,100:737373&height=260&section=header&text=THREADS%20DOWNLOADER&fontSize=46&fontColor=FAFAFA&fontAlignY=40&desc=Scraper%20%26%20Downloader%20Threads%20Performa%20Tinggi&descSize=16&descColor=A3A3A3&descAlignY=62&animation=twinkling" width="100%"/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:threads.svg?color=%23FAFAFA">
+  <img src="https://api.iconify.design/simple-icons:threads.svg?color=%23000000" width="84" alt="Threads"/>
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:262626,100:737373&height=200&section=header&text=THREADS%20DOWNLOADER&fontSize=46&fontColor=FAFAFA&fontAlignY=42&desc=Scraper%20%26%20Downloader%20Threads%20Performa%20Tinggi&descSize=16&descColor=A3A3A3&descAlignY=64&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/kyuuXzry/THREADS-DOWNLOADER">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A3A3A3&center=true&vCenter=true&width=700&height=45&lines=Cepat%2C+andal%2C+dan+bebas+watermark;Plugin+Baileys+%2B+CLI+Termux;Foto+resolusi+tertinggi+%7C+Video+kualitas+asli;Deteksi+media+otomatis" alt="Typing SVG"/>
